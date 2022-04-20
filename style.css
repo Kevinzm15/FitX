@@ -24,6 +24,14 @@ a:hover {
 a:visited {
   color: #ff1493;
 }
+img {
+  vertical-align: middle;
+}
+p {
+  display: inline;
+  background: #000000;
+  padding: 5px;
+}
 #top {
   overflow: hidden;
   position: fixed;
