@@ -8,7 +8,7 @@ function CasualWhiteShirt() {
 }
 function CasualBlackShirt() {
   document.getElementById('shirt').src='FitX.gitbhub.io/casual black.jpg';
-  document.getElementById('prices').innerHTML='$12.99';
+  document.getElementById('prices').innerHTML='$9.99';
 }
 function FittedBlueShirt() {
   document.getElementById('shirt').src='FitX.gitbhub.io/blue fitted.jpg';
