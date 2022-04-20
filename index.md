@@ -1,7 +1,6 @@
 <html>
   <head>
   <meta charset="utf-8">
-  <title>FitX</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
  <nav><center>
