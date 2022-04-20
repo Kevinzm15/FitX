@@ -1,6 +1,6 @@
 function CasualYellowShirt() {
   document.getElementById('shirt').src='FitX/casual yellow.jpg';
-  document.getElementById('prices').innerHTML='$12.99';
+  document.getElementById('prices').innerHTML='$11.99';
 }
 function CasualWhiteShirt() {
   document.getElementById('shirt').src='FitX/white shirt.jpg';
@@ -8,7 +8,7 @@ function CasualWhiteShirt() {
 }
 function CasualBlackShirt() {
   document.getElementById('shirt').src='FitX/casual black.jpg';
-  document.getElementById('prices').innerHTML='$9.99';
+  document.getElementById('prices').innerHTML='$10.99';
 }
 function FittedBlueShirt() {
   document.getElementById('shirt').src='FitX/blue fitted.jpg';
