@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <title>FitX</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+ <nav><center>
+  <a href="index.html">Home</a>&ensp;
+  <a href="women.html">Women</a>&ensp;
+  <a href="accesories.html">Accesories</a>&ensp;
+  <a href="equipment.html">Equipment</a>&ensp;
+  <a href="tops.html">Tops</a>&ensp;
+  <a href="bottoms.html">Bottoms</a></center></nav>
+<body><div id="FitX">
+<a name="up"><br></a>
+ 
+    <h1><center>Fit X</center></h1>
+    <center>The best Fitness Gear around!</center>
+  
+  </div><br>
+  
+  <div id="Best">
+  The best selling item right now.
+<br><br>
+  Images of top 3  
+  </div><br>
 
-You can use the [editor on GitHub](https://github.com/Kevinzm15/FitX.gitbhub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <div id="Women">
+  Women Page top seller
+<br><br>
+  Images of top 5
+  </div><br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <div id="Accessories">
+  Accessories top items
+<br><br>
+  Images of top 5
+  </div><br>
 
-### Markdown
+  <div id="Equipment">
+  Equipment top items
+<br><br>
+  Images of top 5
+  </div><br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <div id="Tops">
+  Best Available Shirts
+<br><br>
+  <img src="shirts/red fitted.jpg" width="150" height="150">&ensp;&ensp;<img src="shirts/sleeveless hoodie red.jpg" width="150" height="150">&ensp;&ensp;<img src="shirts/sleeveless hoodie blue.jpg" width="150" height="150">&ensp;&ensp;<img src="shirts/hoodie red.jpg" width="150" height="150">&ensp;&ensp;<img src="shirts/casual black.jpg" width="150" height="150">&ensp;<a href="tops.html">View All Tops</a>
+  </div><br>
 
-```markdown
-Syntax highlighted code block
+  <div id="Bottoms">
+  Bottoms top 5 (shorts and pants)
+<br><br>
+  Images of top 5
+  </div><br>
 
-# Header 1
-## Header 2
-### Header 3
+  <div id="Examples">
+  3 Exercise Video Examples
+<br>
+  1 Home, 1 At Gym, 1 Random?
+  </div>
 
-- Bulleted
-- List
+<p id="top"><a href="#up">Back to top.</a></p>
+</body>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kevinzm15/FitX.gitbhub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
