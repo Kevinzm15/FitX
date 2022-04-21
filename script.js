@@ -19,7 +19,7 @@ function FittedGrayShirt() {
   document.getElementById('prices').innerHTML='$13.99';
 }
 function FittedGreenShirt() {
-  document.getElementById('shirt').src='docs.gitbhub.io/green fitted.jpg';
+  document.getElementById('shirt').src='docs/green fitted.jpg';
   document.getElementById('prices').innerHTML='$13.99';
 }
 function FittedRedShirt() {
