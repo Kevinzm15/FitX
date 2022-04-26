@@ -23,6 +23,13 @@ a:hover {
 a:visited {
   color: #ff1493;
 }
+
+  img {
+  border-color: #ff1493;
+  border-width: 5px;
+  border-style:inset;
+  border-radius: 10px;
+}
 button {
   background: #ffdab9;
   color: #ff1493;
@@ -34,22 +41,6 @@ img {
   border-width: 5px;
   border-style:inset;
   border-radius: 10px;
-}
-#top {
-  overflow: hidden;
-  position: fixed;
-  background: #000000;
-  height: 5%;
-  bottom: 0;
-  right: 0;
-}
-#shirt1 {
-  width: 20%;
-  float: left;
-}
-#shirt2, #shirt3, #shirt4, #shirt5 {
-  width: 20%;
-  float: right;
 }
 #logo {
   position: fixed;

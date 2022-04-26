@@ -18,7 +18,6 @@ color: #ff1493;
 font-size: 115%;
 }
 a:hover {
-  text-decoration: none;
   color: #ff1493;
 }
 a:visited {
@@ -26,6 +25,10 @@ a:visited {
 }
 img {
   vertical-align: middle;
+  border-color: #ff1493;
+  border-width: 5px;
+  border-style:inset;
+  border-radius: 10px;
 }
 p {
   display: inline;
@@ -36,12 +39,18 @@ p {
   overflow: hidden;
   position: fixed;
   background: #000000;
-  height: 5%;
+  height: 20px;
   bottom: 0;
   right: 0;
 }
+#logo {
+  position: fixed;
+  opacity: clear;
+  top: 0;
+  right: 0;
+}
 #FitX {
-  background-image: url("docs/workout.gif");
+  background-image: url("images/workout.gif");
   background-repeat: norepeat;
   background-size: cover;
   background-attachment: fixed;
@@ -52,4 +61,18 @@ p {
 #Examples {
   width: 100%;
   height: 200px;
+}
+footer {
+  background-color: #ffdab9;
+  color: #ff1493;
+  font-size: 115%;
+  height: 200px;
+}
+table, th, td {
+  border: 3px solid black;
+  height: 15px;
+  text-align: center;
+  border-collapse: collapse;
+  background: #ff1493;
+  color: black;
 }

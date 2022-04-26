@@ -23,6 +23,9 @@ a:hover {
 a:visited {
   color: #ff1493;
 }
+img{
+  float: center;
+}
 button {
   background: #ffdab9;
   color: #ff1493;
@@ -35,21 +38,32 @@ img {
   border-style:inset;
   border-radius: 10px;
 }
-#top {
-  overflow: hidden;
-  position: fixed;
-  background: #000000;
-  height: 5%;
-  bottom: 0;
-  right: 0;
+#womenclothing{
+  float: center;
+  top: 80px;
+  right: ;
+  width: 200px;
+  height: 200px;
+  border: 3px solid #ff1493;
+  
 }
-#shirt1 {
-  width: 20%;
+#tops{
+  float: center;
+}
+#shorts{
+  float: center;
+}
+#shortss{
   float: left;
+  border: 3px solid #ff1493;
+  width: 200px;
+  height: 200px;
 }
-#shirt2, #shirt3, #shirt4, #shirt5 {
-  width: 20%;
-  float: right;
+#prices{
+  float: center;
+}
+p{
+  float: center;
 }
 #logo {
   position: fixed;
